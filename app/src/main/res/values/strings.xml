@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SUBMISSION 3</string>
+    <string name="hello_blank_followers">Hello followers</string>
+    <string name="user_username">Username</string>
+    <string name="user_user">Name</string>
+    <string name="username_following">Username following</string>
+    <string name="name_following">Name following</string>
+    <string name="username_followers">Username followers</string>
+    <string name="name_followers">Name followers</string>
+    <string name="name">name</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="blog">Blog</string>
+    <string name="hello_blank_following">hello following</string>
+    <string name="txt_following">Following</string>
+    <string name="txt_followers">Follower</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="org">Organizations</string>
+    <string name="followers">Followers</string>
+    <string name="sum_followers">Jumlah followers</string>
+    <string name="following">Following</string>
+    <string name="sum_repository">jumlah repository</string>
+    <string name="repository">Repository</string>
+    <string name="sum_following">jumlah following</string>
+    <string name="user_not_found">User not Found</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt">Find your name!</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+</resources>
